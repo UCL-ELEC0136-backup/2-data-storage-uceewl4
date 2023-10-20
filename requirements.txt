@@ -1,0 +1,6 @@
+numpy
+requests
+jupyter
+jupyterlab
+mysql-connector-python
+pandas
